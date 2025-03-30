@@ -1,4 +1,4 @@
-## Olá! Eu sou o Junior 👋
+## Olá! Eu sou a Talita 👋
 
 <div>
     <a href="https://github.com/TalitaMunis">
